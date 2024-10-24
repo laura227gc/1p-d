@@ -1,3 +1,7 @@
 body{
- background-color: black;
- color:aqua(22, 103,  105);
+    background-color: blueviolet;
+    color: rgb(22, 103, 105);
+}
+h3{
+    text-align: center;
+}
