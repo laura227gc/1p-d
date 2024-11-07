@@ -1,7 +1,45 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(0, 0, 0);
     color: rgb(22, 103, 105);
 }
 h3{
     text-align: center;
+}
+header{
+    background-color: beige;
+ margin: 20px;
+ padding: 20px;
+ display: flex;
+ justify-content: space-around;
+ 
+}
+
+.título-1{
+    color:aqua;
+    text-align: left;
+    background-color: rgb(68, 239, 252);
+    padding: 20px;
+    margin: 20px;
+}
+.título-2{
+    color: aqua;
+    text-align: center;
+
+}
+a{
+    color: blue;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 24px;
+}
+p{
+    text-align: center;
+    color: azure;
+    margin: 0;
+    padding: 0;
+
+}
+a:hover{
+    color: aquamarine(107, 149, 165);
+    text-decoration: underline;
 }
